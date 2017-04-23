@@ -28,3 +28,10 @@ h2 {
   font-size: 21px;
   color: gray;
 }
+
+.footer {
+  text-align: right;
+  color: gray;
+  font-family: verdana;
+  font-size: 21px;
+}
